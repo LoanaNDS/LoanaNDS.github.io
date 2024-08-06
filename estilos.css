@@ -1,0 +1,57 @@
+
+nav li {
+    display: inline;
+    font-size: 150%;
+}
+
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#container {
+    align-content: center;
+    text-align: center;
+    color: blanchedalmond;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.shadowbox {
+    width: 35em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #9b12f0, #6e259f 40%, #b730e8);
+    margin-left: 29em;
+    font-family: "Cormorant Garamond", serif;
+font-weight: 700;
+font-style:normal;
+color:rgba(0, 255, 255, 0.678);
+}
+
+.myname {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+#AboutMe {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style:normal;
+    color:blanchedalmond;
+    font-size: 200%;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 7em;
+    
+}
+.formulario{
+    color:blanchedalmond;
+    margin-top: 7em;
+    margin-left: 35em;
+    margin-right: 35em;
+    font-size: 105%;
+}
