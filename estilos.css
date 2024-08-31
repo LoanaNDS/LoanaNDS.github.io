@@ -1,6 +1,5 @@
 
 nav li {
-    display: inline;
     font-size: 150%;
 }
 
@@ -31,7 +30,7 @@ font-style:normal;
 color:rgba(0, 255, 255, 0.678);
 }
 
-.myname {
+#myname {
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
     font-weight: 400;
